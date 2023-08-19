@@ -1,2 +1,2 @@
-a = 'hello world'
-print(a)
+import streamlit as st
+st.title('hello')
